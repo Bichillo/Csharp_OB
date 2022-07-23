@@ -2,9 +2,9 @@
 
 //Escribe un programa que reciba tu nombre y lo escriba por consola.
 
-//Console.WriteLine("Como te llamas?:");
-//string nombre = Console.ReadLine();
-//Console.WriteLine(nombre);
+Console.WriteLine("Como te llamas?:");
+string nombre = Console.ReadLine();
+Console.WriteLine(nombre);
 
 
 //-------------------------------EJERCICIO 2-------------------------------
