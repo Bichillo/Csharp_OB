@@ -27,5 +27,11 @@ Console.WriteLine("string: " + str);
 
 //valor Null
 int? a = null;// hay que poner ? para que acepte null
-a = 12;
-Console.WriteLine(a);
+Console.WriteLine(a.HasValue);//saber el valor
+//No se puede sumarle nada a un valor NULL.
+
+//Se puede inicializar una variable que no se sepa su valor en 0.
+int b = 0;
+Console.WriteLine(b);
+//a = 12;
+//Console.WriteLine(a);
