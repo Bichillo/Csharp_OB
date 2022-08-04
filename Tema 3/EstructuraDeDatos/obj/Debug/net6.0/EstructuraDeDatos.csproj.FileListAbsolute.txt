@@ -1,0 +1,15 @@
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\bin\Debug\net6.0\EstructuraDeDatos.exe
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\bin\Debug\net6.0\EstructuraDeDatos.deps.json
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\bin\Debug\net6.0\EstructuraDeDatos.runtimeconfig.json
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\bin\Debug\net6.0\EstructuraDeDatos.dll
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\bin\Debug\net6.0\EstructuraDeDatos.pdb
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.dll
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\refint\EstructuraDeDatos.dll
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.pdb
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\EstructuraDeDatos.genruntimeconfig.cache
+C:\Users\ninja\OneDrive\OpenBootcamp\C#\Tema 3\EstructuraDeDatos\obj\Debug\net6.0\ref\EstructuraDeDatos.dll
